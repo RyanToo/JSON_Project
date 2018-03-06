@@ -1,0 +1,27 @@
+[
+  {"name":"Igor", "lastName":"Igorev", "city":"Mockva", "adr":"Комсомолькский пр.65"} 
+  "phoneNumbers": [
+  	"123-4321",
+  	"321-1234"
+  ],
+  {"name":"Petr", "lastName":"Petrov", "city":"Riazan", "adr":"Комсомолькский пр.64"}   "phoneNumbers": [
+  	"123-9900",
+  	"321-0099"
+  ],
+  {"name":"Ivan", "lastName":"Ivanov", "city":"Penza", "adr":"Комсомолькский пр.63"}   "phoneNumbers": [
+  	"123-4444",
+  	"321-5555"
+  ],
+  {"name":"George", "lastName":"Georgerev", "city":"Novosibirsk'", "adr:"Комсомолькский пр.62"}   "phoneNumbers": [
+  	"123-3333",
+  	"321-2222"
+  ],
+  {"name":"Alek", "lastName":"Aleksev", "city":"Kazan", "adr":"Комсомолькский пр.61"}   "phoneNumbers": [
+  	"123-7777",
+  	"321-9999"
+  ],
+  {"name":"Nikita", "lastName":"Igorev", "city":"Perm", "adr":"Комсомолькский пр.60"}  "phoneNumbers": [
+  	"123-3434",
+  	"321-4343"
+  ]
+]
